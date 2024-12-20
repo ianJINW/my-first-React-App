@@ -30,4 +30,8 @@ A social media application built with React, Firebase, and TypeScript.
 npm install
 ```
 
-npm start - Runs the app in development mode
+3. Runs the app in development mode
+
+```bash
+npm start
+```
